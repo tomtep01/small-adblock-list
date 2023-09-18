@@ -1,0 +1,11 @@
+! Title : Basic Filter List
+! Expires : 5 days
+! Version : 1
+filmy4wab.pro##.adb-overlay
+loigiaihay.com##.mark
+loigiaihay.com##.popup-confirm-notify
+theprodkeys.com##.adb
+toithuthuat.com###text-16 > .textwidget > p > .local-link > span
+toithuthuat.com###custom_html-7
+toploigiai.vn###pvoucher-live-close
+toploigiai.vn###pvoucher-live-icon
