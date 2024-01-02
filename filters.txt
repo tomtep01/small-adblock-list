@@ -11,5 +11,5 @@ toploigiai.vn###pvoucher-live-close
 toploigiai.vn###pvoucher-live-icon
 ||khoahoc.vietjack.com/images/banner_tailieugiaovien.png
 .adnzone_525768$domain=~toploigiai.vn
-.banner-inner$domain=~fir3.net
+fir3.net##.banner-inner
 ||1.bp.blogspot.com/-kcTGwNfMBUA/XY4pBKoksTI/AAAAAAAAIlY/TsAXaSyXjbIDmh1PynFyoXBAhtS56J44QCPcBGAYYCw/s640/Continuar%2B%25282%2529.png
